@@ -37,5 +37,8 @@ NPM FS Package
 
 
 
-## Link
+## Deployed Link
 Deployed Heroku Link: https://take-of-notes.herokuapp.com/
+
+## Contribution
+made with love by Theo Phillips
