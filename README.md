@@ -40,5 +40,8 @@ NPM FS Package
 ## Deployed Link
 Deployed Heroku Link: https://take-of-notes.herokuapp.com/
 
+## Notes
+I added the delete notes functionality for the extra credit.
+
 ## Contribution
 made with love by Theo Phillips
