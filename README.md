@@ -12,6 +12,12 @@ The application’s front end has already been created. It's your job to build t
 
 ## Built With
 <li>
+HTML
+</li>
+<li>
+CSS
+</li>
+<li>
 JavaScript
 </li>
 <li>
